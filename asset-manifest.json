@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactTest.git/static/css/main.b3528c39.chunk.css",
+    "main.js": "/ReactTest.git/static/js/main.161cea39.chunk.js",
+    "main.js.map": "/ReactTest.git/static/js/main.161cea39.chunk.js.map",
+    "runtime-main.js": "/ReactTest.git/static/js/runtime-main.b0ab23ae.js",
+    "runtime-main.js.map": "/ReactTest.git/static/js/runtime-main.b0ab23ae.js.map",
+    "static/js/2.93352c3c.chunk.js": "/ReactTest.git/static/js/2.93352c3c.chunk.js",
+    "static/js/2.93352c3c.chunk.js.map": "/ReactTest.git/static/js/2.93352c3c.chunk.js.map",
+    "static/js/3.d262f93d.chunk.js": "/ReactTest.git/static/js/3.d262f93d.chunk.js",
+    "static/js/3.d262f93d.chunk.js.map": "/ReactTest.git/static/js/3.d262f93d.chunk.js.map",
+    "index.html": "/ReactTest.git/index.html",
+    "static/css/main.b3528c39.chunk.css.map": "/ReactTest.git/static/css/main.b3528c39.chunk.css.map",
+    "static/js/2.93352c3c.chunk.js.LICENSE.txt": "/ReactTest.git/static/js/2.93352c3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0ab23ae.js",
+    "static/js/2.93352c3c.chunk.js",
+    "static/css/main.b3528c39.chunk.css",
+    "static/js/main.161cea39.chunk.js"
+  ]
+}
